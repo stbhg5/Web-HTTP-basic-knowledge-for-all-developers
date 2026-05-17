@@ -6,6 +6,7 @@
 <h2>1. 인터넷 네트워크<h2/>
     <a href="https://stbhg5.tistory.com/1001">인터넷 통신</a><br/>
     <a href="https://stbhg5.tistory.com/1002">IP(인터넷 프로토콜)</a><br/>
+    <a href="https://stbhg5.tistory.com/1006">TCP, UDP</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
