@@ -8,6 +8,11 @@
     <a href="https://stbhg5.tistory.com/1002">IP(인터넷 프로토콜)</a><br/>
     <a href="https://stbhg5.tistory.com/1006">TCP, UDP</a><br/>
     <a href="https://stbhg5.tistory.com/1009">PORT</a><br/>
+    <a href="https://stbhg5.tistory.com/1011">DNS</a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
