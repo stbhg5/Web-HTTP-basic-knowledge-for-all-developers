@@ -11,8 +11,8 @@
     <a href="https://stbhg5.tistory.com/1011">DNS</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>2. URI와 웹 브라우저 요청 흐름<h2/>
+    <a href="https://stbhg5.tistory.com/1013">URI(Uniform Resource Identifier)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
