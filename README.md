@@ -14,8 +14,13 @@
 <h2>2. URI와 웹 브라우저 요청 흐름<h2/>
     <a href="https://stbhg5.tistory.com/1013">URI(Uniform Resource Identifier)</a><br/>
     <a href="https://stbhg5.tistory.com/1016">웹 브라우저 요청 흐름</a><br/>
+    <br/><br/>
+
+<h2>3. HTTP 기본<h2/>
     <a href="https://stbhg5.tistory.com/1019">모든 것이 HTTP</a><br/>
     <a href="https://stbhg5.tistory.com/1020">클라이언트 서버 구조</a><br/>
+    <a href="https://stbhg5.tistory.com/1023">Stateful, Stateless</a><br/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
