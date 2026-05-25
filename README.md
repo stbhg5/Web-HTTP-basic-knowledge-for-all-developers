@@ -20,7 +20,7 @@
     <a href="https://stbhg5.tistory.com/1019">모든 것이 HTTP</a><br/>
     <a href="https://stbhg5.tistory.com/1020">클라이언트 서버 구조</a><br/>
     <a href="https://stbhg5.tistory.com/1023">Stateful, Stateless</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/1026">비 연결성(connectionless)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
