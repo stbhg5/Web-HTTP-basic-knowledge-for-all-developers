@@ -24,8 +24,8 @@
     <a href="https://stbhg5.tistory.com/1029">HTTP 메시지</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>4. HTTP 메서드<h2/>
+    <a href="https://stbhg5.tistory.com/1032">HTTP API를 만들어보자</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
