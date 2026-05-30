@@ -28,6 +28,11 @@
     <a href="https://stbhg5.tistory.com/1032">HTTP API를 만들어보자</a><br/>
     <a href="https://stbhg5.tistory.com/1035">HTTP 메서드 - GET, POST</a><br/>
     <a href="https://stbhg5.tistory.com/1037">HTTP 메서드 - PUT, PATCH, DELETE</a><br/>
+    <a href="https://stbhg5.tistory.com/1039">HTTP 메서드의 속성</a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
