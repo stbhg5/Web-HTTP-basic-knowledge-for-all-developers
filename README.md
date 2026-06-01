@@ -33,6 +33,11 @@
 
 <h2>5. HTTP 메서드 활용<h2/>
     <a href="https://stbhg5.tistory.com/1042">클라이언트에서 서버로 데이터 전송</a><br/>
+    <a href="https://stbhg5.tistory.com/1046">HTTP API 설계 예시</a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
