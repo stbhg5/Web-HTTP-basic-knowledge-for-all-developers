@@ -38,6 +38,7 @@
 
 <h2>6. HTTP 상태코드<h2/>
     <a href="https://stbhg5.tistory.com/1049">HTTP 상태코드 소개</a><br/>
+    <a href="https://stbhg5.tistory.com/1052">2xx - 성공</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
