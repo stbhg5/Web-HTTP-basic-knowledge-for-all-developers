@@ -40,6 +40,7 @@
     <a href="https://stbhg5.tistory.com/1049">HTTP 상태코드 소개</a><br/>
     <a href="https://stbhg5.tistory.com/1052">2xx - 성공</a><br/>
     <a href="https://stbhg5.tistory.com/1055">3xx - 리다이렉션1</a><br/>
+    <a href="https://stbhg5.tistory.com/1058">3xx - 리다이렉션2</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
