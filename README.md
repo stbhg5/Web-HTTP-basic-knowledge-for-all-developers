@@ -41,7 +41,7 @@
     <a href="https://stbhg5.tistory.com/1052">2xx - 성공</a><br/>
     <a href="https://stbhg5.tistory.com/1055">3xx - 리다이렉션1</a><br/>
     <a href="https://stbhg5.tistory.com/1058">3xx - 리다이렉션2</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/1061">4xx - 클라이언트 오류, 5xx - 서버 오류</a><br/>
     <br/><br/>
 
 <h2><h2/>
