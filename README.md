@@ -44,6 +44,11 @@
     <a href="https://stbhg5.tistory.com/1061">4xx - 클라이언트 오류, 5xx - 서버 오류</a><br/>
     <br/><br/>
 
+<h2>7. HTTP 헤더1 - 일반 헤더<h2/>
+    <a href="https://stbhg5.tistory.com/1065">HTTP 헤더 개요</a><br/>
+    <a href=""></a><br/>
+    <br/><br/>
+
 <h2><h2/>
     <a href=""></a><br/>
     <a href=""></a><br/>
