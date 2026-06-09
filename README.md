@@ -47,6 +47,7 @@
 <h2>7. HTTP 헤더1 - 일반 헤더<h2/>
     <a href="https://stbhg5.tistory.com/1065">HTTP 헤더 개요</a><br/>
     <a href="https://stbhg5.tistory.com/1066">표현</a><br/>
+    <a href="https://stbhg5.tistory.com/1069">협상(콘텐츠 네고시에이션)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
