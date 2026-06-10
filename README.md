@@ -48,6 +48,8 @@
     <a href="https://stbhg5.tistory.com/1065">HTTP 헤더 개요</a><br/>
     <a href="https://stbhg5.tistory.com/1066">표현</a><br/>
     <a href="https://stbhg5.tistory.com/1069">협상(콘텐츠 네고시에이션)</a><br/>
+    <a href="https://stbhg5.tistory.com/1072">전송 방식</a><br/>
+    <a href="https://stbhg5.tistory.com/1073">일반 정보</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
