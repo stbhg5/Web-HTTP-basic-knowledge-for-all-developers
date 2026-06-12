@@ -52,7 +52,7 @@
     <a href="https://stbhg5.tistory.com/1073">일반 정보</a><br/>
     <a href="https://stbhg5.tistory.com/1078">특별한 정보</a><br/>
     <a href="https://stbhg5.tistory.com/1079">인증</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/1080">쿠키</a><br/>
     <br/><br/>
 
 <h2><h2/>
