@@ -55,7 +55,7 @@
     <a href="https://stbhg5.tistory.com/1080">쿠키</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>8. HTTP 헤더2 - 캐시와 조건부 요청<h2/>
+    <a href="https://stbhg5.tistory.com/1081">캐시 기본 동작</a><br/>
     <a href=""></a><br/>
     <br/><br/>
