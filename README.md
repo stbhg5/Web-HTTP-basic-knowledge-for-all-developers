@@ -58,5 +58,6 @@
 <h2>8. HTTP 헤더2 - 캐시와 조건부 요청<h2/>
     <a href="https://stbhg5.tistory.com/1081">캐시 기본 동작</a><br/>
     <a href="https://stbhg5.tistory.com/1084">검증 헤더와 조건부 요청1</a><br/>
+    <a href="https://stbhg5.tistory.com/1085">검증 헤더와 조건부 요청2</a><br/>
     <a href=""></a><br/>
     <br/><br/>
