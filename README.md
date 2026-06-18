@@ -59,5 +59,6 @@
     <a href="https://stbhg5.tistory.com/1081">캐시 기본 동작</a><br/>
     <a href="https://stbhg5.tistory.com/1084">검증 헤더와 조건부 요청1</a><br/>
     <a href="https://stbhg5.tistory.com/1085">검증 헤더와 조건부 요청2</a><br/>
+    <a href="https://stbhg5.tistory.com/1087">캐시와 조건부 요청 헤더</a><br/>
     <a href=""></a><br/>
     <br/><br/>
