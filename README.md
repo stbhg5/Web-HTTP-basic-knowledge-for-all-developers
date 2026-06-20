@@ -61,5 +61,5 @@
     <a href="https://stbhg5.tistory.com/1085">검증 헤더와 조건부 요청2</a><br/>
     <a href="https://stbhg5.tistory.com/1087">캐시와 조건부 요청 헤더</a><br/>
     <a href="https://stbhg5.tistory.com/1089">프록시 캐시</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/1090">캐시 무효화</a><br/>
     <br/><br/>
